@@ -155,7 +155,7 @@ footer:
 
 
 # Reading Files
-include_cached:
+include:
   - .htaccess
   - _pages
 exclude:
