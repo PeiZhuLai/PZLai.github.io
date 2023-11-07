@@ -2,10 +2,8 @@
 main:
   - title: "CV"
     url: https://peizhulai.github.io/pdfs/CV_PeiZhu_Lai.pdf
-  
   - title: "Publications"
     url: /Publications/
-    
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
