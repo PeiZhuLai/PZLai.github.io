@@ -105,10 +105,12 @@ analytics:
 # Site Author
 author:
   name             : "Pei-Zhu Lai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_EPS.jpg"
   bio              : ""
   location         : "Taiwan"
-  email            :
+  email            : "ht910155@gmail.com"
+  github           : "peizhulai"
+  orcid            : "https://orcid.org/0000-0002-9746-4519"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
