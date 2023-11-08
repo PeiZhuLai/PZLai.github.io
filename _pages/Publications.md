@@ -30,6 +30,17 @@ mathjax: "true"
 
 * (Jul 2020) [The Performance of Jet Reconstruction and Distinguishment among Multi-jet Events at CEPC](https://tps2020.conf.tw/site/order/1312/oral_contestants.aspx?sid=1312&lang=en), [Annual Meeting of the Physical Society of Taiwan](https://peizhulai.github.io/pdfs/slides/2020_Annual_Meeting_TPS_Slides.pdf), National Pingtung University, Pingtung, Taiwan
 
+* (Nov 2019) [Jet Response at CEPC](https://indico.ihep.ac.cn/event/9960/contributions/113754/attachments/61149/70519/111819_CEPCWS_2019_Jet.pdf), [The 2019 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/9960/contributions/113754/), IHEP, Beijing, China
+
+* (Oct 2019) [Jet Reconstruction Performance & Distinguish between Multi-jet Events](https://agenda.linearcollider.org/event/8217/contributions/44662/attachments/34904/53926/Pei-Zhu.Lai_LCWS2019_Jet_Reconstruction_Performance.pdf), [Interna- tional Workshop for Future Linear Colliders 2019 (LCWS2019)](https://epx.phys.tohoku.ac.jp/LCWS2019/), Sendai, Japan
+
+* (Jul 2019) [Jet Performance at CEPC](https://indico.ihep.ac.cn/event/9832/contributions/112249/attachments/60195/69391/070118_CEPCWorkshop_JES.pdf), [The CEPC Physics Detector Workshop](https://indico.ihep.ac.cn/event/9832/), Peking University, Beijing, China
+
+* (Nov 2018) [W-mass Measurement in Future Lepton Collider](https://indico.ihep.ac.cn/event/7389/contributions/93742/attachments/49703/57230/111318_CEPCWorkshop_Wmass.pdf), [The 2018 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/7389/timetable/?view=standard), IHEP, Beijing, China
+
+* (Nov 2018) [Jet Energy Scale & Jet Energy Calibration at CEPC](https://indico.ihep.ac.cn/event/7389/contributions/93810/attachments/49732/57259/111218_CEPCWorkshop_JES.pdf), [The 2018 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/7389/timetable/?view=standard), IHEP, Beijing, China
+
+
 ##### Poster Presentations
 
 
