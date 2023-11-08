@@ -10,6 +10,7 @@
   ```bash
   index.html 
   /_pages/home.html
+  /_layouts/home.html
   ```
 
 - other pages:
