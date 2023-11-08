@@ -6,12 +6,18 @@
   _config.yml
   ```
 - homepage: 
+
+  ```bash
   index.html 
   /_pages/home.html
+  ```
 
 - other pages:
+
+  ```bash
   add lines in /_data/navigation.yml
   add files(.md) in /_pages/
+  ```
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
