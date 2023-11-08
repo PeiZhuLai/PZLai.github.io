@@ -1,8 +1,10 @@
 ## Files correspeonding to features
 
 - overall configuration and author info:
+  
+  ```bash
   _config.yml
-
+  ```
 - homepage: 
   index.html 
   /_pages/home.html
