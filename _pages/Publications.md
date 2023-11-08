@@ -57,7 +57,14 @@ mathjax: "true"
 
 * (Jun 2018) [Jet Reconstruction at CEPC](https://peizhulai.github.io/pdfs/posters/2018_NCU_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Central University, Zhung-li, Taiwan,
 
-* 
+* (Jan 2018) [Jet Reconstruction at CEPC](https://peizhulai.github.io/pdfs/posters/2018_TPS_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Taiwan University, Taipei, Taiwan,
+
+* (Jun 2017) [Physics Impact of Solid Angle Coverage at CEPC](https://peizhulai.github.io/pdfs/posters/2017_NCU_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Central University, Zhung-li, Taiwan,
+
+* (Jan 2017) [The use of multivariate techniques for the energy of b-quark jets](https://peizhulai.github.io/pdfs/posters/2017_PSROC_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, Tamkang University, New Taipei City, Taiwan,
+
+* (Jun 2016) [Vortex Ring](https://peizhulai.github.io/pdfs/posters/2016_Vortex_Ring_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Central Univer- sity, Zhung-li, Taiwan,
+
 ##### Other Activities
 
 
