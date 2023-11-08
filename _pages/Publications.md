@@ -26,9 +26,9 @@ mathjax: "true"
 3. Physics Impact of the Solid Angle Coverage at CEPC, (2017), IHEP-CEPC-DR-165-v1
 
 ##### Oral Presentations
--(Jul 2020) [Differential Jet Performance at CEPC](https://indico.ihep.ac.cn/event/11938/contributions/14770/attachments/6975/7884/072320_ECAL_MiniWS.pdf), [Online mini-workshop on a detector concept with a crystal ECAL](https://indico.ihep.ac.cn/event/11938/contributions/14770/), IHEP, Beijing, China
+* (Jul 2020) [Differential Jet Performance at CEPC](https://indico.ihep.ac.cn/event/11938/contributions/14770/attachments/6975/7884/072320_ECAL_MiniWS.pdf), [Online mini-workshop on a detector concept with a crystal ECAL](https://indico.ihep.ac.cn/event/11938/contributions/14770/), IHEP, Beijing, China
 
--(Jul 2020) [The Performance of Jet Reconstruction and Distinguishment among Multi-jet Events at CEPC](https://tps2020.conf.tw/site/order/1312/oral_contestants.aspx?sid=1312&lang=en), [Annual Meeting of the Physical Society of Taiwan](https://peizhulai.github.io/pdfs/slides/2020_Annual_Meeting_TPS_Slides.pdf), National Pingtung University, Pingtung, Taiwan
+* (Jul 2020) [The Performance of Jet Reconstruction and Distinguishment among Multi-jet Events at CEPC](https://tps2020.conf.tw/site/order/1312/oral_contestants.aspx?sid=1312&lang=en), [Annual Meeting of the Physical Society of Taiwan](https://peizhulai.github.io/pdfs/slides/2020_Annual_Meeting_TPS_Slides.pdf), National Pingtung University, Pingtung, Taiwan
 
 ##### Poster Presentations
 
