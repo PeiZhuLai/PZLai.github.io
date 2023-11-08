@@ -15,8 +15,8 @@
 - other pages:
 
   ```bash
-  add lines in /_data/navigation.yml
-  add files(.md) in /_pages/
+  add lines to /_data/navigation.yml
+  add files(.md) to /_pages/
   ```
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
