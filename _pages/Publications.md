@@ -47,7 +47,17 @@ mathjax: "true"
 * (Jun 2016) [Vortex Ring](https://peizhulai.github.io/pdfs/slides/2016_Vortex_Ring_Presentation_Slides.pdf), Presentation for students from The Aﬀiliated Zhongli Senior High School of National Central University (CLHS), National Central University, Zhung-li, Taiwan
 
 ##### Poster Presentations
+* (Jul 2019) [Reconstruction of Physics Objects at the Circular Electron Positron Collider with Arbor](https://peizhulai.github.io/pdfs/posters/2019_EPS_Poster_PZLai_Reco_Object.pdf), European Physical Society Conference on High Energy Physics (EPS), Ghent, Belgium,
 
+* (Jul 2019) [Performance of Jets at the Higgs Factory](https://peizhulai.github.io/pdfs/posters/2019_EPS_Poster_PZLai_Jet.pdf), CEPC, European Physical Society Conference on High Energy Physics (EPS), Ghent, Belgium,
+
+* (Jan 2019) [Performance of Jets at the Higgs Factory, CEPC](https://peizhulai.github.io/pdfs/posters/2019_TPS_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Chiao Tung University, Hsinchu, Taiwan,
+
+* (Jul 2018) [Jet Reconstruction at CEPC](https://peizhulai.github.io/pdfs/posters/2018_ICHEP_Poster_PZLai.pdf), 39th International Conference of High Energy Physics (ICHEP), COEX, Seoul, Korea,
+
+* (Jun 2018) [Jet Reconstruction at CEPC](https://peizhulai.github.io/pdfs/posters/2018_NCU_Poster_PZLai.pdf), Annual Meeting of the Physical Society of Taiwan, National Central University, Zhung-li, Taiwan,
+
+* 
 ##### Other Activities
 
 
