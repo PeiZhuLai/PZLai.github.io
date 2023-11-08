@@ -1,3 +1,16 @@
+## Files correspeonding to features
+
+- overall configuration and author info:
+  _config.yml
+
+- homepage: 
+  index.html 
+  /_pages/home.html
+
+- other pages:
+  add lines in /_data/navigation.yml
+  add files(.md) in /_pages/
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
