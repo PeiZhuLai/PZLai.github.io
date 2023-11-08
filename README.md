@@ -1,11 +1,11 @@
 ## Files correspeonding to features
 
-- overall configuration and author info:
+- overall configuration and author aside phote:
   
   ```bash
   _config.yml
   ```
-- homepage: 
+- homepage photo: 
 
   ```bash
   index.html 
