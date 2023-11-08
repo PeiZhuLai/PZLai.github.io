@@ -19,6 +19,7 @@ mathjax: "true"
 [doi:10.48550/arXiv.1811.10545](https://arxiv.org/abs/1811.10545), [arXiv:1811.10545](https://arxiv.org/abs/1811.10545)
 6. Reconstruction of physics objects at the Circular Electron Positron Collider with Arbor, (2018) Eur. Phys. J. C 78, 426, 
 [doi:10.1140/epjc/s10052-018-5876-z](https://link.springer.com/article/10.1140/epjc/s10052-018-5876-z), [arXiv:1806.04879](https://arxiv.org/abs/1806.04879)
+
 ##### Internal Analysis Notes in CEPC Collaboration
 1. Precision Higgs Physics at CEPC, (2020), IHEP-CEPC-DR-200-v3
 2. Jet Reconstruction at CEPC, (2020), IHEP-CEPC-DR-164-v2
