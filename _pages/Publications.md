@@ -26,11 +26,11 @@ mathjax: "true"
 3. Physics Impact of the Solid Angle Coverage at CEPC, (2017), IHEP-CEPC-DR-165-v1
 
 ##### Oral Presentations
-* (Jul 2020) [Differential Jet Performance at CEPC](https://indico.ihep.ac.cn/event/11938/contributions/14770/attachments/6975/7884/072320_ECAL_MiniWS.pdf), [Online mini-workshop on a detector concept with a crystal ECAL](https://indico.ihep.ac.cn/event/11938/contributions/14770/), IHEP, Beijing, China
+* (Jul 2020) [Differential Jet Performance at CEPC](https://indico.ihep.ac.cn/event/11938/contributions/14770/attachments/6975/7884/072320_ECAL_MiniWS.pdf), [Online mini-workshop on a detector concept with a crystal ECAL](https://indico.ihep.ac.cn/event/11938/), IHEP, Beijing, China
 
 * (Jul 2020) [The Performance of Jet Reconstruction and Distinguishment among Multi-jet Events at CEPC](https://tps2020.conf.tw/site/order/1312/oral_contestants.aspx?sid=1312&lang=en), [Annual Meeting of the Physical Society of Taiwan](https://peizhulai.github.io/pdfs/slides/2020_Annual_Meeting_TPS_Slides.pdf), National Pingtung University, Pingtung, Taiwan
 
-* (Nov 2019) [Jet Response at CEPC](https://indico.ihep.ac.cn/event/9960/contributions/113754/attachments/61149/70519/111819_CEPCWS_2019_Jet.pdf), [The 2019 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/9960/contributions/113754/), IHEP, Beijing, China
+* (Nov 2019) [Jet Response at CEPC](https://indico.ihep.ac.cn/event/9960/contributions/113754/attachments/61149/70519/111819_CEPCWS_2019_Jet.pdf), [The 2019 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/9960/), IHEP, Beijing, China
 
 * (Oct 2019) [Jet Reconstruction Performance & Distinguish between Multi-jet Events](https://agenda.linearcollider.org/event/8217/contributions/44662/attachments/34904/53926/Pei-Zhu.Lai_LCWS2019_Jet_Reconstruction_Performance.pdf), [Interna- tional Workshop for Future Linear Colliders 2019 (LCWS2019)](https://epx.phys.tohoku.ac.jp/LCWS2019/), Sendai, Japan
 
@@ -40,6 +40,11 @@ mathjax: "true"
 
 * (Nov 2018) [Jet Energy Scale & Jet Energy Calibration at CEPC](https://indico.ihep.ac.cn/event/7389/contributions/93810/attachments/49732/57259/111218_CEPCWorkshop_JES.pdf), [The 2018 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/7389/timetable/?view=standard), IHEP, Beijing, China
 
+* (May 2018) [Performance of Jets at CEPC](https://peizhulai.github.io/pdfs/slides/2018_Taiwan_Korea_Joint_WS_Slides.pdf), [Taiwan Korea joint workshop on particle physics](https://indico.cern.ch/event/730600/), National Central University, Zhung-li, Taiwan
+
+* (May 2017) [Jet Energy Scale & Jet Energy Resolution at CEPC](https://indico.ihep.ac.cn/event/6618/contributions/85898/attachments/45117/51873/110617_CEPCWorkshop.pdf), [The 2017 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/6618/), IHEP, Beijing, China
+
+(Jun 2016) [Vortex Ring](https://peizhulai.github.io/pdfs/slides/2016_Vortex_Ring_Presentation_Slides.pdf), Presentation for students from The Aﬀiliated Zhongli Senior High School of National Central University (CLHS), National Central University, Zhung-li, Taiwan
 
 ##### Poster Presentations
 
