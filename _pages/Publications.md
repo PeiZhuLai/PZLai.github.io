@@ -44,7 +44,7 @@ mathjax: "true"
 
 * (May 2017) [Jet Energy Scale & Jet Energy Resolution at CEPC](https://indico.ihep.ac.cn/event/6618/contributions/85898/attachments/45117/51873/110617_CEPCWorkshop.pdf), [The 2017 International Workshop on the High Energy Circular Electron Positron Collider](https://indico.ihep.ac.cn/event/6618/), IHEP, Beijing, China
 
-(Jun 2016) [Vortex Ring](https://peizhulai.github.io/pdfs/slides/2016_Vortex_Ring_Presentation_Slides.pdf), Presentation for students from The Aﬀiliated Zhongli Senior High School of National Central University (CLHS), National Central University, Zhung-li, Taiwan
+* (Jun 2016) [Vortex Ring](https://peizhulai.github.io/pdfs/slides/2016_Vortex_Ring_Presentation_Slides.pdf), Presentation for students from The Aﬀiliated Zhongli Senior High School of National Central University (CLHS), National Central University, Zhung-li, Taiwan
 
 ##### Poster Presentations
 
