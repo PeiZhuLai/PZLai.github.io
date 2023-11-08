@@ -8,7 +8,6 @@ mathjax: "true"
 ---
 
 Here is the list of my publications (in reverse chronological order).
-
 ##### Papers
 1. Optimization of tracker configuration for the CEPC, (2022) JINST 17 P11016, 
 [doi:10.1088/1748-0221/17/11/P11016](https://iopscience.iop.org/article/10.1088/1748-0221/17/11/P11016), [arXiv:2209.00397](https://arxiv.org/abs/2209.00397)
@@ -22,7 +21,6 @@ Here is the list of my publications (in reverse chronological order).
 [doi:10.48550/arXiv.1811.10545](https://arxiv.org/abs/1811.10545), [arXiv:1811.10545](https://arxiv.org/abs/1811.10545)
 6. Reconstruction of physics objects at the Circular Electron Positron Collider with Arbor, (2018) Eur. Phys. J. C 78, 426, 
 [doi:10.1140/epjc/s10052-018-5876-z](https://link.springer.com/article/10.1140/epjc/s10052-018-5876-z), [arXiv:1806.04879](https://arxiv.org/abs/1806.04879)
-
 ##### Internal Analysis Notes
 
 
