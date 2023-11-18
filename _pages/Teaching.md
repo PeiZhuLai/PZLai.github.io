@@ -30,5 +30,5 @@ Furthermore, I played a crucial role in supporting students when they faced frus
   <!-- <figcaption>Photo taken from the Chinese version of Scientific American's June 2020 issue.</figcaption> -->
 </figure></center>
 
-* [See all thanks cards I received.](https://peizhulai.github.io/pdfs/Thank_Cards_Summary.pdf)
+* [See all thank-you cards I received.](https://peizhulai.github.io/pdfs/Thank_Cards_Summary.pdf)
 
