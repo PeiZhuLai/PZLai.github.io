@@ -7,7 +7,7 @@ author_profile: true
 mathjax: "true"
 ---
 
-#####Sophomore
+##### Sophomore
 
 As the final presentation date approached during my Experimental Physics courses, I recognized my limited presentation skills. Seeing this as an opportunity for personal growth and community contribution, I joined the YongLin Education Foundation as a remedial education teacher at Hope Elementary School.Securing this role involved passing a teaching demonstration interview and participating in a comprehensive three-day workshop to renew the remedial education license for three semesters. The YongLin Education Foundation's remedial educational program aims to provide educational and financial support to students facing academic challenges due to economic disadvantages.
 {: style="text-align: justify;"}
