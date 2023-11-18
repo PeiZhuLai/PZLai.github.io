@@ -16,3 +16,8 @@ At the end of my sophomore year, I became part of the experimental high-energy p
   {{ fig_img_eleveto | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>The comparison between the invariant mass distributions of two b-jets before and after the implementation of b-jet energy regression.</figcaption>
 </figure></center>
+
+<center><figure>
+  <img src="/pdfs/JER_mass_plot.pdf" style="width:50%" class="align-center">
+  <!-- <figcaption>The comparison between the invariant mass distributions of two b-jets before and after the implementation of b-jet energy regression.</figcaption> -->
+</figure></center>
