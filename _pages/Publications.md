@@ -69,9 +69,6 @@ mathjax: "true"
 
 * (Aug 2019) [Weihai High Energy Physics School (WHEPS)](https://indico.ihep.ac.cn/event/9142/), Shandong, China,
   * Mainly contributed to final report slides entitled ”Chargino and Neutralino Searches at LHC.”
-
-* (July 2019) CERN, Geneva, Switzerland
-  * One-day visit
  
 * (Jul 2018) [International Summer school on TeV Experimental Physics (iSTEP)](https://indico.ihep.ac.cn/event/7854/), Wuhan Univer- sity, Wuhan, China,
   * Presented the final report for our group.
