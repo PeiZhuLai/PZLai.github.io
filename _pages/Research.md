@@ -8,6 +8,20 @@ mathjax: "true"
 ---
 
 At the end of my sophomore year, I became part of the experimental high-energy physics group under the guidance of Prof. Chia-Ming Kuo at National Central University (NCU), Taiwan, initiating my undergraduate project and later my master's thesis. As the first Taiwanese student to the future collider project, the Circular Electron-Positron Collider (CEPC), initiated by the Institute of High Energy Physics (IHEP), I have been fortunate to engage in research under the expert guidance of both Prof. Manqi Ruan from IHEP and Prof. Chia-Ming Kuo from NCU for a total of 4 transformative years.
+##### Jet Performance at CEPC
+
+I conducted **jet performance at CEPC**. Jet reconstruction plays a pivotal role in precision measurements at CEPC, especially regarding properties of the Higgs boson and electroweak observables. My analysis focused on the energy and angular responses of representative 2- and 4-jet processes using fully simulated samples under the CEPC's baseline detector geometry. In the detector's barrel region ($$|cos\theta|<0.6$$) with energies exceeding 60 GeV, I achieved a relative resolution of 3.5% and 1% for jet energy and angular measurements, respectively. Additionally, I controlled the jet energy/angular scale within 0.5/0.01%. I also extracted the differential dependencies of jet responses on both jet direction and energy. Moreover, my analysis included studying the impact of different jet clustering algorithms and matching criteria on jet responses, revealing a relative difference of up to 8%. Furthermore, I dedicated efforts to improve the boson mass resolution for W-, Z-, and Higgs-boson in dijet final states. The research was published in the Journal of Instrumentation, JINST 16 P07037.
+{: style="text-align: justify;"}
+
+
+<center><figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/JER/WZH_mass.jpg" style="width:45%; margin-left: 40px;"><img src="{{ site.url }}{{ site.baseurl }}/images/JER/JER_cali_cos_fiducial_RecoGen.jpg" style="width:45%; margin-right: 40px;">
+  <!-- <figcaption>this is a figure.</figcaption> -->
+</figure></center>
+
+* Jet performance at the Circular electron-positron Collider, (2021) JINST 16 P07037, 
+[doi:10.1088/1748-0221/16/07/P07037](https://iopscience.iop.org/article/10.1088/1748-0221/16/07/P07037), [arXiv:2104.05029](https://arxiv.org/abs/2104.05029)
+
 
 ##### B-jet Energy Regression
 
@@ -53,22 +67,6 @@ Particle collective efficiency refers to the ratio of events where all visible p
     <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/WW_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-left: 160px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/ZZ_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-right: 160px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
-
-##### Jet Performance at CEPC
-
-
-
-Jet reconstruction plays a pivotal role in precision measurements at CEPC, especially regarding properties of the Higgs boson and electroweak observables. My analysis focused on the energy and angular responses of representative 2- and 4-jet processes using fully simulated samples under the CEPC's baseline detector geometry. In the detector's barrel region ($$|cos\theta|<0.6$$) with energies exceeding 60 GeV, I achieved a relative resolution of 3.5% and 1% for jet energy and angular measurements, respectively. Additionally, I controlled the jet energy/angular scale within 0.5/0.01%. I also extracted the differential dependencies of jet responses on both jet direction and energy. Moreover, my analysis included studying the impact of different jet clustering algorithms and matching criteria on jet responses, revealing a relative difference of up to 8%. Furthermore, I dedicated efforts to improve the boson mass resolution for W-, Z-, and Higgs-boson in dijet final states.
-{: style="text-align: justify;"}
-
-
-<center><figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/JER/WZH_mass.jpg" style="width:45%; margin-left: 40px;"><img src="{{ site.url }}{{ site.baseurl }}/images/JER/JER_cali_cos_fiducial_RecoGen.jpg" style="width:45%; margin-right: 40px;">
-  <!-- <figcaption>this is a figure.</figcaption> -->
-</figure></center>
-
-* Jet performance at the Circular electron-positron Collider, (2021) JINST 16 P07037, 
-[doi:10.1088/1748-0221/16/07/P07037](https://iopscience.iop.org/article/10.1088/1748-0221/16/07/P07037), [arXiv:2104.05029](https://arxiv.org/abs/2104.05029)
 
 
 
