@@ -18,3 +18,8 @@ At the end of my sophomore year, I became part of the experimental high-energy p
     <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:48%">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
+
+<center><figure>
+  <img src="images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:70%" class="align-center">
+  <!-- <figcaption>Photo taken from the Chinese version of Scientific American's June 2020 issue.</figcaption> -->
+</figure></center>
