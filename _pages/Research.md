@@ -7,7 +7,7 @@ author_profile: true
 mathjax: "true"
 ---
 
-At the end of my sophomore year, I became part of the experimental high-energy physics group under the guidance of Prof. Chia-Ming Kuo at National Central University (NCU), Taiwan, initiating my undergraduate project and later my master's thesis.
+At the end of my sophomore year, I became part of the experimental high-energy physics group under the guidance of Prof. Chia-Ming Kuo at National Central University (NCU), Taiwan, initiating my undergraduate project and later my master's thesis. 
 
 ##### B-jet Energy Regression
 
