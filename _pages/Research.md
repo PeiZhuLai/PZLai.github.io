@@ -58,6 +58,8 @@ Particle collective efficiency refers to the ratio of events where all visible p
 
 
 
+Jet reconstruction plays a pivotal role in precision measurements at CEPC, especially regarding properties of the Higgs boson and electroweak observables. My analysis focused on the energy and angular responses of representative 2- and 4-jet processes using fully simulated samples under the CEPC's baseline detector geometry. In the detector's barrel region ($$|cos\theta|<0.6$$) with energies exceeding 60 GeV, I achieved a relative resolution of 3.5% and 1% for jet energy and angular measurements, respectively. Additionally, I controlled the jet energy/angular scale within 0.5/0.01%. I also extracted the differential dependencies of jet responses on both jet direction and energy. Moreover, my analysis included studying the impact of different jet clustering algorithms and matching criteria on jet responses, revealing a relative difference of up to 8%. Furthermore, I dedicated efforts to improve the boson mass resolution for W-, Z-, and Higgs-boson in dijet final states.
+{: style="text-align: justify;"}
 
 
 <center><figure>
