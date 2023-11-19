@@ -31,6 +31,6 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 </figure></center>
 
 <center><figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/tree_level_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sZnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sWnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;f">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/tree_level_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sZnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sWnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
