@@ -26,11 +26,11 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -50px; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -50px; margin-right: 25px;">
+    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -55px; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -55px; margin-right: 25px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
 <center><figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/tree_level_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sZnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sWnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -50px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/tree_level_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sZnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sWnu_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
