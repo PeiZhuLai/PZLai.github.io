@@ -15,7 +15,7 @@ At the end of my sophomore year, I became part of the experimental high-energy p
 ##### Physics Impact of Solid Angle at CEPC
 
 <center><figure>
-<img src=“/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg” style="width:49%" class=“align-center">
-<img src=“/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg” style="width:49%" class="align-center">
+<img src=“/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpeg” style="width:49%" class=“align-center">
+<img src=“/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpeg” style="width:49%" class="align-center">
   <!-- <figcaption></figcaption> -->
 </figure></center>
