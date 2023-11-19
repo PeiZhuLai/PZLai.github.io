@@ -21,7 +21,7 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 
 <center><figure>
     <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:37%; margin-left: 100px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:37%; margin-right: 100px;">
-  <!-- <figcaption>this is a figure.</figcaption> -->
+<figcaption>The collective efficiency of processes involving the Higgs boson and Z-boson.</figcaption>
 </figure></center>
 
 <center><figure>
