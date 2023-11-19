@@ -61,7 +61,7 @@ Particle collective efficiency refers to the ratio of events where all visible p
 
 
 <center><figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/JER/WZH_mass.jpg" style="width:32%; margin-left: 160px;"><img src="{{ site.url }}{{ site.baseurl }}/images/JER/JER_cali_cos_fiducial_RecoGen.jpg" style="width:32%; margin-right: 160px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/JER/WZH_mass.jpg" style="width:45%; margin-left: 10px;"><img src="{{ site.url }}{{ site.baseurl }}/images/JER/JER_cali_cos_fiducial_RecoGen.jpg" style="width:45%; margin-right: 10px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
