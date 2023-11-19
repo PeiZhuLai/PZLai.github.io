@@ -20,7 +20,7 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 {: style="text-align: justify;"}
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:32%; margin-left: 160px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:32%; margin-right: 160px;">
+    <img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:32%; margin-left: 160px;"><img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:32%; margin-right: 160px;">
 <!-- <figcaption></figcaption> --> 
 </figure></center>
 
@@ -29,9 +29,25 @@ Accurate physical measurements necessitate extensive statistical data. The detec
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
+<center><figure>
+    <img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-left: 160px;"><img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-right: 160px;">
+  <!-- <figcaption>this is a figure.</figcaption> -->
+</figure></center>
+
+
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-left: 160px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-right: 160px;">
+    <img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/ZH_E_Collective_Eff.jpg" style="width:32%; margin-left: 160px;"><img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/Zpole_E_Collective_Eff.jpg" style="width:32%; margin-right: 160px;">
+<!-- <figcaption></figcaption> --> 
+</figure></center>
+
+<center><figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/tree_level_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/sZnu_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px;"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/sWnu_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px;">
+  <!-- <figcaption>this is a figure.</figcaption> -->
+</figure></center>
+
+<center><figure>
+    <img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/WW_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-left: 160px;"><img src="{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Energy/ZZ_bkg_E_Collective_Eff.jpg" style="width:32%; margin-top: -55px; margin-right: 160px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
