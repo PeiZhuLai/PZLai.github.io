@@ -23,7 +23,7 @@ I conducted **jet performance at CEPC**. Jet reconstruction plays a pivotal role
 [doi:10.1088/1748-0221/16/07/P07037](https://iopscience.iop.org/article/10.1088/1748-0221/16/07/P07037), [arXiv:2104.05029](https://arxiv.org/abs/2104.05029)
 
 
-##### B-jet Energy Regression
+##### B-jet Energy Regression at CMS
 
 My initial project involved employing multivariate techniques for energy regression of b-jets, utilizing MC samples derived from the Compact Muon Solenoid (CMS) detector at the Large Hadron Collider (LHC). By training 18 variables in t<span style="text-decoration: overline;">t</span>, I achieved substantial enhancements. Notably, in the test sample and VH production sample, the resolution of b-jets improved by 8% in jet energy resolution and an impressive 50% in jet energy scale.
 {: style="text-align: justify;"}
