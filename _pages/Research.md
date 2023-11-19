@@ -21,7 +21,7 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 
 <center><figure>
     <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:37%; margin-left: 100px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:37%; margin-right: 100px;">
-<figcaption>The collective efficiency of ZH production at $$\sqrtt{s}=250 GeV $$ and Z-pole at $$\sqrtt{s}=91.18 GeV $$.</figcaption>
+<!-- <figcaption></figcaption> --> 
 </figure></center>
 
 <center><figure>
