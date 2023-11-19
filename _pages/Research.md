@@ -20,7 +20,7 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 {: style="text-align: justify;"}
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:37%; margin-left: 100px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:37%; margin-right: 100px;">
+    <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:32%; margin-left: 160px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:32%; margin-right: 160px;">
 <!-- <figcaption></figcaption> --> 
 </figure></center>
 
