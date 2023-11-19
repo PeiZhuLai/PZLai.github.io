@@ -26,7 +26,7 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -20px; margin-right: 10px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -20px; margin-left: 10px;">
+    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -50px; margin-right: 50px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -50px; margin-left: 50px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
