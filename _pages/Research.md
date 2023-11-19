@@ -67,7 +67,8 @@ Jet reconstruction plays a pivotal role in precision measurements at CEPC, espec
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
-
+* Jet performance at the Circular electron-positron Collider, (2021) JINST 16 P07037, 
+[doi:10.1088/1748-0221/16/07/P07037](https://iopscience.iop.org/article/10.1088/1748-0221/16/07/P07037), [arXiv:2104.05029](https://arxiv.org/abs/2104.05029)
 
 
 
