@@ -19,3 +19,13 @@ At the end of my sophomore year, I became part of the experimental high-energy p
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
+
+<center><figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:48%"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:48%">
+  <!-- <figcaption>this is a figure.</figcaption> -->
+</figure></center>
+
+<center><figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/tree_level_bkg_particle_Collective_Eff.jpg" style="width:32%"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sZnu_bkg_particle_Collective_Eff.jpg" style="width:32%"><img src="{{ site.url }}{{ site.baseurl }}/images/Solid_Angle/Particle/sWnu_bkg_particle_Collective_Eff.jpg" style="width:32%">
+  <!-- <figcaption>this is a figure.</figcaption> -->
+</figure></center>
