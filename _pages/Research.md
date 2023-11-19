@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 ---
 layout: single
 classes: wide
@@ -7,9 +10,7 @@ author_profile: true
 mathjax: "true"
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 
 At the end of my sophomore year, I became part of the experimental high-energy physics group under the guidance of Prof. Chia-Ming Kuo at National Central University (NCU), Taiwan, initiating my undergraduate project and later my master's thesis. As the first Taiwanese student to the future collider project, the Circular Electron-Positron Collider (CEPC), initiated by the Institute of High Energy Physics (IHEP), I have been fortunate to engage in research under the expert guidance of both Prof. Manqi Ruan from IHEP and Prof. Chia-Ming Kuo from NCU for a total of 4 transformative years.
 ##### Jet Performance at CEPC
