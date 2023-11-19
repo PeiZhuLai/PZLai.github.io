@@ -20,13 +20,13 @@ Accurate physical measurements necessitate extensive statistical data. The detec
 {: style="text-align: justify;"}
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:45%; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:45%; margin-right: 25px;">
+    <img src="/images/Solid_Angle/Particle/ZH_Particle_Collective_Eff.jpg" style="width:40%; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/Zpole_Particle_Collective_Eff.jpg" style="width:40%; margin-right: 25px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
 
 <center><figure>
-    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -55px; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:45%; margin-top: -55px; margin-right: 25px;">
+    <img src="/images/Solid_Angle/Particle/WW_bkg_particle_Collective_Eff.jpg" style="width:40%; margin-top: -55px; margin-left: 25px;"><img src="/images/Solid_Angle/Particle/ZZ_bkg_particle_Collective_Eff.jpg" style="width:40%; margin-top: -55px; margin-right: 25px;">
   <!-- <figcaption>this is a figure.</figcaption> -->
 </figure></center>
 
